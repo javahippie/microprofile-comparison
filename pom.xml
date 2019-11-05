@@ -15,6 +15,7 @@
 
     <modules>
         <module>openliberty</module>
+        <module>thorntail</module>
     </modules>
 
 </project>
